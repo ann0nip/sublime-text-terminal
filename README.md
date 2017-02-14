@@ -3,6 +3,7 @@ Abrir Sublime Text desde la Terminal en OSX
 ---
 
 Vamos a crear un comando para abrir archivos o carpetas desde la Terminal con Sublime text. 
+![alt tag](https://media.giphy.com/media/l0HeoWV5ZPGsGW8zm/source.gif)
 
 Requisitos 
 ---
