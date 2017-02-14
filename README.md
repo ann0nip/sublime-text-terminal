@@ -1,8 +1,8 @@
 # sublime-text-terminal
-Abrir Sublime Text desde la terminal en OSX
+Abrir Sublime Text desde la Terminal en OSX
 ---
 
-Vamos a crear un comando para abrir archivos o carpetas desde la terminal con Sublime text. 
+Vamos a crear un comando para abrir archivos o carpetas desde la Terminal con Sublime text. 
 
 Requisitos 
 ---
@@ -10,7 +10,7 @@ Requisitos
 
 Setup
 ---
-Para poder abrir sublime desde la Terminal lo unico que hay que hacer es crear un symlink `/usr/local/bin/subl` apuntando a la App de Sublime. Para ello haremos lo siguente:
+Para poder abrir Sublime desde la Terminal lo unico que hay que hacer es crear un symlink `/usr/local/bin/subl` apuntando a la App de Sublime. Para ello haremos lo siguente:
 
 ### Sublime Text 2
 
